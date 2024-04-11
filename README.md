@@ -1,6 +1,6 @@
 Project Title: Module 2 Challenge
 
-Description: In this project, we are iterating through a large list of stock data and outputting sums of information
+Description: In this project, we are iterating through a large list of stock data and outputting sums and percentages of information
 
 Getting Started: You will need to open the VBA code in Developer and run it for each Excel sheet.
 
