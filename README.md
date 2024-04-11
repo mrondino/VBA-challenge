@@ -4,7 +4,7 @@ Description: In this project, we are iterating through a large list of stock dat
 
 Getting Started: You will need to open the VBA code in Developer and run it for each Excel sheet.
 
-Code Source: I utilized the structure of the solution to the "credit_charges_solution" in class "2.3 Scripting Practice in VBA" as a framework for the code. I renamed the variables, used different formats for the variables, and added more functions. 
+Code Source: I utilized the structure of the solution to the "credit_charges_solution" in class "2.3 Scripting Practice in VBA" as a framework for the code. I renamed the variables, used different formats for the variables, and added more functions. I also utilized the "Lastrow" function that was discussed in the same class "2.3 Scripting Practice in VBA"
 
 Author: The author for this project was me (Madeline Rondino)
 
